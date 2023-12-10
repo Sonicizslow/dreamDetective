@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dtp1fijjr356y"
-path="res://.godot/imported/spr_ester.png-1f1ce944b569ce76732d6e9967bc0cc2.ctex"
+uid="uid://ce17b47873mj"
+path="res://.godot/imported/spr_anna.png-7f5a6e1bf14f679fe9553ecff89fb055.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://spr_ester.png"
-dest_files=["res://.godot/imported/spr_ester.png-1f1ce944b569ce76732d6e9967bc0cc2.ctex"]
+source_file="res://assets/spr_anna.png"
+dest_files=["res://.godot/imported/spr_anna.png-7f5a6e1bf14f679fe9553ecff89fb055.ctex"]
 
 [params]
 

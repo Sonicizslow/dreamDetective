@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://ce17b47873mj"
-path="res://.godot/imported/spr_anna.png-4d253a3081bf4f4e07717d2fccf9eb41.ctex"
+uid="uid://c8isrq8s5uqa6"
+path="res://.godot/imported/spr_colt.png-3fc8a1bfbf6e6631910bb1f91c27ab31.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://spr_anna.png"
-dest_files=["res://.godot/imported/spr_anna.png-4d253a3081bf4f4e07717d2fccf9eb41.ctex"]
+source_file="res://assets/spr_colt.png"
+dest_files=["res://.godot/imported/spr_colt.png-3fc8a1bfbf6e6631910bb1f91c27ab31.ctex"]
 
 [params]
 

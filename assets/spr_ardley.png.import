@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://c8isrq8s5uqa6"
-path="res://.godot/imported/spr_colt.png-d091b58b2026ea0ac263ac9c08640bd9.ctex"
+uid="uid://dnan5gxykmysu"
+path="res://.godot/imported/spr_ardley.png-c4ff8352af6e34976c79996c046b11e9.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://spr_colt.png"
-dest_files=["res://.godot/imported/spr_colt.png-d091b58b2026ea0ac263ac9c08640bd9.ctex"]
+source_file="res://assets/spr_ardley.png"
+dest_files=["res://.godot/imported/spr_ardley.png-c4ff8352af6e34976c79996c046b11e9.ctex"]
 
 [params]
 
