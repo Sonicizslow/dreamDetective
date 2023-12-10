@@ -2,26 +2,26 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://brwv1h2yd7pos"
-path="res://.godot/imported/topDown_baseTiles.png-62b3bf23afec95b09ab0385c63f958a4.ctex"
+uid="uid://dtp1fijjr356y"
+path="res://.godot/imported/spr_ester.png-6f295dc322d01e6aee72e346ca34601c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://topDown_baseTiles.png"
-dest_files=["res://.godot/imported/topDown_baseTiles.png-62b3bf23afec95b09ab0385c63f958a4.ctex"]
+source_file="res://assets/spr_ester.png"
+dest_files=["res://.godot/imported/spr_ester.png-6f295dc322d01e6aee72e346ca34601c.ctex"]
 
 [params]
 
-compress/mode=1
+compress/mode=0
 compress/high_quality=false
 compress/lossy_quality=0.7
 compress/hdr_compression=1
 compress/normal_map=0
 compress/channel_pack=0
-mipmaps/generate=true
+mipmaps/generate=false
 mipmaps/limit=-1
 roughness/mode=0
 roughness/src_normal=""
